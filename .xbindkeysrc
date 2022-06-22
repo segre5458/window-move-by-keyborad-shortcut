@@ -1,0 +1,10 @@
+#! /bin/sh
+
+"~/Documents/window-move-by-keyborad-shortcut/win_Right.sh"
+  Alt+Mod4 + l
+"~/Documents/window-move-by-keyborad-shortcut/win_Left.sh"
+  Alt+Mod4 + h
+"~/Documents/window-move-by-keyborad-shortcut/win_Up.sh"
+  Alt+Mod4 + k
+"~/Documents/window-move-by-keyborad-shortcut/win_Down.sh"
+  Alt+Mod4 + j
